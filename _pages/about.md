@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Overview
 Motivated high school student with a proven track record of 
 consistently achieving academic excellence, seeking 
