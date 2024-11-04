@@ -17,7 +17,7 @@ management abilities in a professional setting. Committed
 to bringing a positive attitude and enthusiastic energy to 
 any task undertaken.
 
-### Skills
+## Skills
 - Flexible and Adaptable  
 - Verbal Communication
 - Friendly, Positive Attitude
@@ -29,31 +29,34 @@ any task undertaken.
 - Leadership
 
 ## Academic Overview
-### High School
-#### Havre De Grace High School, 
+## High School
+### Havre De Grace High School, 
 - Havre De Grace, MD
 - Expected in May 2026
   - 3.58 unweighted GPA
   - Made states while Wrestling for the Warriors, 2022 to 2024
   - Member of NSHSS, 2023-2024
 
-#### ITOA (Information Technology Oracle Academy), 
+### ITOA (Information Technology Oracle Academy), 
 - Havre De Grace, MD
 - Expected in May 2026
 
-### Harford Community College, 
-#### Computer and Information Sciences
+## Harford Community College, 
+### Computer and Information Sciences
 - Bel Air, MD
 - Expected in May 2028
 
-### Courses Taken & Courses Taking
+## Courses Taken & Courses Taking
 - AP Computer Science Principles & Ap Computer Science A
 - Into to Data Science 
 - Java Fundamentals & Java Foundations
 - Database Foundations & Database SQL Introduction
 
-## More about Me
-### Volunteer Work
+# More about Me
+## Personal Projects
+DNA Visualizer, This project generates DNA samples, converts them to RNA, translates them to amino acid sequences, and visualizes the similarity and searched patterns across these sequences in circular plots.
+https://github.com/AydenW359/DNA-Comparison-Data-Visualizer/tree/main
+## Volunteer Work
 I dedicated countless hours as a tutor for my football team, 
 providing daily support to help teammates succeed 
 academically. Through personalized sessions, I ensured 
