@@ -55,7 +55,7 @@ any task undertaken.
 # More about Me
 ## Personal Projects
 DNA Visualizer, This project generates DNA samples, converts them to RNA, translates them to amino acid sequences, and visualizes the similarity and searched patterns across these sequences in circular plots.
-https://github.com/AydenW359/DNA-Comparison-Data-Visualizer/tree/main
+[File Link](https://github.com/AydenW359/DNA-Comparison-Data-Visualizer/tree/main)
 ## Volunteer Work
 I dedicated countless hours as a tutor for my football team, 
 providing daily support to help teammates succeed 
