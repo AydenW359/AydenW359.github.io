@@ -51,11 +51,22 @@ any task undertaken.
 - Into to Data Science 
 - Java Fundamentals & Java Foundations
 - Database Foundations & Database SQL Introduction
+- Ap Physics
 
 # More about Me
 ## Personal Projects
 DNA Visualizer, This project generates DNA samples, converts them to RNA, translates them to amino acid sequences, and visualizes the similarity and searched patterns across these sequences in circular plots.
-[File Link](https://github.com/AydenW359/DNA-Comparison-Data-Visualizer/tree/main)
+[GitHub Link](https://github.com/AydenW359/DNA-Comparison-Data-Visualizer/tree/main)
+
+Wrestling Bracket Software, managing wrestling team rosters and generating match brackets, built with Python and Tkinter.
+[GitHub Link](https://github.com/AydenW359/WrestlingBracket/tree/main)
+
+War Card Game, simple out of window based program. The basic card game war with a full deck that is split between Two players. Includes round skip to an important event.
+[GitHub Link](https://github.com/AydenW359/WarGame/tree/main)
+
+Welcome To Board Game, front end focused with limited backend. Simple webpage disgn with easy intutive controls.
+[GitHub Link](https://github.com/AydenW359/WelcomToFrontEnd/tree/main)
+
 ## Volunteer Work
 I dedicated countless hours as a tutor for my football team, 
 providing daily support to help teammates succeed 
