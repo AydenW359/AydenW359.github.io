@@ -65,7 +65,7 @@ War Card Game, simple out of window based program. The basic card game war with 
 [GitHub Link](https://github.com/AydenW359/WarGame/tree/main)
 
 Welcome To Board Game, front end focused with limited backend. Simple webpage disgn with easy intutive controls.
-[GitHub Link](https://github.com/AydenW359/WelcomToFrontEnd/tree/main)
+[GitHub Link](https://github.com/AydenW359/WelcomeToFrontEnd/tree/main)
 
 ## Volunteer Work
 I dedicated countless hours as a tutor for my football team, 
