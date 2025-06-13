@@ -21,7 +21,7 @@ repository               : "AydenW359/AydenW359.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_5783.jpg"
   name             : "Ayden Winter"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Ayden Winter"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
